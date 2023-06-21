@@ -1,6 +1,6 @@
 # Sales Analysis Dashboard
 
-![Sales Analysis Dashboard](dashboard_screenshot.png)
+[![Sales Analysis Dashboard](https://github.com/SuryaR08/U.S-Sales-Analytics-Dashboard-/blob/main/Tableau%20Public%20-%20Sales%20Analytics%20Dashboard%2021-06-2023%2018_36_55.png)](https://public.tableau.com/views/SalesAnalyticsDashboard_16873521676370/salesdark?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 This repository contains a sales analysis dashboard created using Tableau. The dashboard utilizes a dataset comprising US sales data, including state-wise information on sales, profit, and quantity for the current year and the previous year. The dashboard features both a white mode and a dark mode, allowing users to switch between the two.
 
